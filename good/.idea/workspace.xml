@@ -1,8 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;/home/emmanuel/good&quot;
-  }
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed66e14e-8843-48fd-8fcf-60cec0d00092" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/goodprojeck/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/goodprojeck/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodprojeck/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/goodprojeck/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/AgeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/AgeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/EvenOddChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/EvenOddChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/SimplerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/SimplerCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/StundentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/goodprojeck/src/main/java/com/emmanuel/StundentInfo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/goodprojeck">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="goodprojeck" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/goodprojeck" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000008775593288" />
+      <entry key="MS500" value="1.0615045232126286" />
+      <entry key="S2" value="1.578146685778695" />
+      <entry key="S5" value="2.2497492142128355" />
+      <entry key="S10" value="3.015401596111407" />
+      <entry key="S30" value="4.468673613161325" />
+      <entry key="S60" value="5.499230997752707" />
+      <entry key="M2" value="6.672411617906432" />
+      <entry key="M5" value="8.464097348359825" />
+      <entry key="M10" value="9.951122776480391" />
+      <entry key="M15" value="10.719825695322982" />
+      <entry key="M30" value="11.709269028594354" />
+      <entry key="H1" value="12.310840177859916" />
+      <entry key="H2" value="12.643589823440491" />
+      <entry key="H4" value="12.818719006948124" />
+      <entry key="D1" value="12.969348844731796" />
+      <entry key="W1" value="12.995610406378868" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1078142569903946E-4" />
+      <entry key="MS500" value="0.1740791050461669" />
+      <entry key="S2" value="1.0466188745080305" />
+      <entry key="S5" value="1.9614989944942824" />
+      <entry key="S10" value="2.836336470802511" />
+      <entry key="S30" value="4.38200870564025" />
+      <entry key="S60" value="5.445986860157469" />
+      <entry key="M2" value="6.639007030158576" />
+      <entry key="M5" value="8.443268494815685" />
+      <entry key="M10" value="9.936877670161497" />
+      <entry key="M15" value="10.7089934415943" />
+      <entry key="M30" value="11.703001797773814" />
+      <entry key="H1" value="12.30745107950998" />
+      <entry key="H2" value="12.641825188380464" />
+      <entry key="H4" value="12.817818328864453" />
+      <entry key="D1" value="12.969196107331758" />
+      <entry key="W1" value="12.995588521489115" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
 }</component>
+  <component name="ProjectId" id="3KdagxxCIoZcW4PFxE76oAryeGX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.goodprojeck [:com.emmanuel.AgeChecker.main()].executor": "Run",
+    "Gradle.goodprojeck [:com.emmanuel.EvenOddChecker.main()].executor": "Run",
+    "Gradle.goodprojeck [:com.emmanuel.SimplerCalculator.main()].executor": "Run",
+    "Gradle.goodprojeck [:com.emmanuel.StudentResult.main()].executor": "Run",
+    "Gradle.goodprojeck [:com.emmanuel.StundentInfo.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/emmanuel/good",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StudentResult">
+    <configuration name="AgeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emmanuel.AgeChecker" />
+      <module name="goodprojeck.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emmanuel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenOddChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emmanuel.EvenOddChecker" />
+      <module name="goodprojeck.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emmanuel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplerCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emmanuel.SimplerCalculator" />
+      <module name="goodprojeck.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emmanuel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emmanuel.StudentResult" />
+      <module name="goodprojeck.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emmanuel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StundentInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emmanuel.StundentInfo" />
+      <module name="goodprojeck.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emmanuel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentResult" />
+        <item itemvalue="Application.EvenOddChecker" />
+        <item itemvalue="Application.AgeChecker" />
+        <item itemvalue="Application.StundentInfo" />
+        <item itemvalue="Application.SimplerCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed66e14e-8843-48fd-8fcf-60cec0d00092" name="Changes" comment="" />
+      <created>1791890014287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791890014287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
 </project>
